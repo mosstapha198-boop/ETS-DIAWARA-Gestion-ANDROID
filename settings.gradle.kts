@@ -1,0 +1,1 @@
+pluginManagement, repositories Google, MavenCentral, gradlePluginPortal, puis dependencyResolutionManagement avec Google et MavenCentral, rootProject name égal ETS-DIAWARA-GESTION-ANDROID, et include :app.
